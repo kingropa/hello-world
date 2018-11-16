@@ -1,0 +1,1 @@
+{"totalCount":"1","imdata":[{"fvAEPg":{"attributes":{"descr":"","dn":"uni/tn-testtenant/ap-Accounting/epg-Bills","matchT":"AtleastOne","name":"Bills","prio":"unspecified"},"children":[{"fvRsCustQosPol":{"attributes":{"tnQosCustomPolName":""}}},{"fvRsBd":{"attributes":{"tnFvBDName":""}}},{"fvCrtrn":{"attributes":{"descr":"","name":"default","ownerKey":"","ownerTag":""}}}]}}]}

@@ -1,0 +1,35 @@
+[------------- Sending Request to Server ------------
+
+<configEstimateImpact
+cookie="1542382106/d6db5420-a584-4ac2-b1e8-b52bc6c5c7d5">
+    <inConfigs>
+<pair key="org-root/org-PythonMaster">
+    <orgOrg
+    name="PythonMaster"
+    dn="org-root/org-PythonMaster"
+    
+    status="created"
+    
+    sacl="addchild,del,mod">
+    </orgOrg>
+</pair>
+    </inConfigs>
+</configEstimateImpact>
+
+<configConfMos
+cookie="1542382106/d6db5420-a584-4ac2-b1e8-b52bc6c5c7d5"
+inHierarchical="false">
+    <inConfigs>
+<pair key="org-root/org-PythonMaster">
+    <orgOrg
+    name="PythonMaster"
+    dn="org-root/org-PythonMaster"
+    
+    status="created"
+    
+    sacl="addchild,del,mod">
+    </orgOrg>
+</pair>
+    </inConfigs>
+</configConfMos>
+-----------------------------------------------------]
